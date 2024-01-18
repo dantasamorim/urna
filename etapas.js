@@ -43,7 +43,7 @@ let etapas = [
                 vice: 'Zul',
                 fotos: [
                     { url: 'prefeito2.jpg', legenda: 'prefeito' },
-                    { url: 'vice2.jpg', legenda: 'vice-prefeito', esmall: true }
+                    { url: 'vice2.jpg', legenda: 'vice-prefeito', small: true }
                 ]
             },
 
